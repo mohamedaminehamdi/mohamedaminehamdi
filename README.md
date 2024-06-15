@@ -1,6 +1,7 @@
-## Hi there 👋
+## Hello, I'm Amine! 👋
+#### Fullstack Web Developer
+![Fullstack Web Developer]([Fullstack Web Developer](https://github.com/mohamedaminehamdi/mohamedaminehamdi/blob/main/Black%20and%20Cream%20Simple%20Minimalist%20Assistant%20Manager%20LinkedIn%20Banner.png))
 
-Hello, I'm Amine! 👋
 
 I'm a web developer from Tunisia, passionate about creating dynamic and responsive websites. I enjoy working on projects that make a difference and continually seek to learn and grow in the field of web development.
 
