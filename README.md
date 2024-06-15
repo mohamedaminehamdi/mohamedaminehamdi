@@ -12,8 +12,6 @@ Feel free to connect with me:
 
 Let's build something amazing together!
 
-<!--[![Amine's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohamedaminehamdi)](https://github.com/anuraghazra/github-readme-stats)-->
-
 ### Skills
 - ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 - ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -27,8 +25,14 @@ Let's build something amazing together!
 - 👯 I’m looking to collaborate on **web projects**.
 
 
+
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mohamedaminehamdi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/mohamed-amine-hamdi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100089733371903)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/hamdi__mohamed__amine//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://x.com/aminehamdibarca)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=mohamedaminehamdi)  
 
 
+ 
+
+
+<!--[![Amine's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohamedaminehamdi)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub streak stats](https://streak-stats.demolab.com/?user=mohamedaminehamdi) -->
