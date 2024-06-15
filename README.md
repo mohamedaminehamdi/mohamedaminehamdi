@@ -11,7 +11,7 @@ Feel free to connect with me:
 
 Let's build something amazing together!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohamedaminehamdi)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Amine's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohamedaminehamdi)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
 <!--
