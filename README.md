@@ -2,12 +2,8 @@
 
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-Hi 👋 My name is Mohamed Amine
-==============================
-<hr style="border: none; background-color: #005792; height: 2px; margin: 20px 0;">
-Fullstack Web Developer
------------------------
-<hr style="border: none; background-color: #005792; height: 2px; margin: 20px 0;">
+<h1 align="center">Hi 👋, I'm Mohamed Amine</h1>
+<h3 align="center">Fullstack Web Developer</h3>
 
 <hr style="border: none; background-color: #005792; height: 2px; margin: 20px 0;">
 
