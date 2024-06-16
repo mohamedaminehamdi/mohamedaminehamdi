@@ -12,11 +12,13 @@ I enjoy working on projects that make a difference and have a tangible impact on
 
 <hr style="border: none; background-color: #005792; height: 2px; margin: 20px 0;">
 <div align="center">
+  
 *   ✉️  You can contact me at [aminehamdifcb@gmail.com](mailto:aminehamdifcb@gmail.com)
   
-*   🧠  I'm learning Machine Learning
+*   🧠  I'm learning AI
   
 *   🤝  I'm open to collaborating on web projects
+*   
 </div>
 <a href="https://www.github.com/mohamedaminehamdi" target="_blank" rel="noreferrer">
 
