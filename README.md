@@ -3,7 +3,7 @@
 ## Hello, I'm Amine! 👋
 #### Fullstack Web Developer
 
-I'm a web developer from Tunisia, passionate about creating dynamic and responsive websites. I enjoy working on projects that make a difference and continually seek to learn and grow in the field of web development.
+I'm a web developer, passionate about creating dynamic and responsive websites. I enjoy working on projects that make a difference and continually seek to learn and grow in the field of web development.
 
 Feel free to connect with me:
 
