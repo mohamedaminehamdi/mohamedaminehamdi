@@ -1,7 +1,7 @@
 ![Fullstack Web Developer](https://github.com/mohamedaminehamdi/mohamedaminehamdi/blob/main/Black%20and%20Cream%20Simple%20Minimalist%20Assistant%20Manager%20LinkedIn%20Banner.png)
 
 
-<h1 align="center">Hi 👋, I'm Mohamed Amine</h1>
+<h3 align="center">Hi 👋, I'm Mohamed Amine</h3>
 <h3 align="center">Fullstack Web Developer</h3>
 
 <hr style="border: none; background-color: #005792; height: 2px; margin: 20px 0;">
