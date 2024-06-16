@@ -19,7 +19,7 @@ I enjoy working on projects that make a difference and have a tangible impact on
   
 *   🤝  I'm open to collaborating on web projects
 
-<a href="https://www.github.com/mohamedaminehamdi" target="_blank" rel="noreferrer">
+<hr style="border: none; background-color: #005792; height: 2px; margin: 20px 0;">
 
 <img src="https://img.shields.io/github/followers/mohamedaminehamdi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
