@@ -13,7 +13,7 @@ I enjoy working on projects that make a difference and have a tangible impact on
 <hr style="border: none; background-color: #005792; height: 2px; margin: 20px 0;">
 
 <p align="center">
-  <img src="[https://example.com/your-gif-url.gif](https://github.com/mohamedaminehamdi/mohamedaminehamdi/blob/main/image_processing20210912-10430-132g4ab.gif)" alt="Your GIF" />
+  <img src="https://github.com/mohamedaminehamdi/mohamedaminehamdi/blob/main/image_processing20210912-10430-132g4ab.gif" alt="Your GIF" />
 </p>
   
 *   ✉️  You can contact me at [aminehamdifcb@gmail.com](mailto:aminehamdifcb@gmail.com)
