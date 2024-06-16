@@ -12,6 +12,9 @@ I enjoy working on projects that make a difference and have a tangible impact on
 
 <hr style="border: none; background-color: #005792; height: 2px; margin: 20px 0;">
 
+<p align="center">
+  <img src="https://example.com/your-gif-url.gif" alt="Your GIF" />
+</p>
   
 *   ✉️  You can contact me at [aminehamdifcb@gmail.com](mailto:aminehamdifcb@gmail.com)
   
