@@ -3,9 +3,7 @@
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 ## Hello, I'm Amine! 👋
-
 ## Fullstack Web Developer
-
 <hr style="border: none; background-color: #005792; height: 2px; margin: 20px 0;">
 
 I'm a web developer from Tunisia, passionate about creating dynamic and responsive websites. With a strong foundation in modern web technologies, I strive to build applications that are not only functional but also provide an exceptional user experience. My journey in web development started with a curiosity for how websites work, and over the last two years, it has evolved into a deep passion for coding and design.
