@@ -9,8 +9,8 @@ Fullstack Web Developer
 *   ✉️  You can contact me at [aminehamdifcb@gmail.com](mailto:aminehamdifcb@gmail.com)
 *   🧠  I'm learning Machine Learning
 *   🤝  I'm open to collaborating on web projects
-*
-*   <a href="https://www.github.com/mohamedaminehamdi" target="_blank" rel="noreferrer">
+
+<a href="https://www.github.com/mohamedaminehamdi" target="_blank" rel="noreferrer">
 
 <img src="https://img.shields.io/github/followers/mohamedaminehamdi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
