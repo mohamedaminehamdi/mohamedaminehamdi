@@ -11,15 +11,14 @@ I'm a web developer from Tunisia, passionate about creating dynamic and responsi
 I enjoy working on projects that make a difference and have a tangible impact on users. Whether it's a personal portfolio, an e-commerce platform, or a social networking site, I believe in the power of technology to solve problems and enhance our lives.
 
 <hr style="border: none; background-color: #005792; height: 2px; margin: 20px 0;">
-<div align="center">
+
   
 *   ✉️  You can contact me at [aminehamdifcb@gmail.com](mailto:aminehamdifcb@gmail.com)
   
 *   🧠  I'm learning AI
   
 *   🤝  I'm open to collaborating on web projects
-*   
-</div>
+
 <a href="https://www.github.com/mohamedaminehamdi" target="_blank" rel="noreferrer">
 
 <img src="https://img.shields.io/github/followers/mohamedaminehamdi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
