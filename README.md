@@ -2,8 +2,13 @@
 
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-Hello, I'm Amine! 👋
------------------------
+<style>
+  h2 {
+    border-bottom: none;
+  }
+</style>
+
+## Hello, I'm Amine! 👋
 ### Fullstack Web Developer
 
 <hr style="border: none; background-color: #005792; height: 2px; margin: 20px 0;">
