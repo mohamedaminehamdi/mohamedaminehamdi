@@ -4,9 +4,10 @@
 
 Hi 👋 My name is Mohamed Amine
 ==============================
-
+<hr style="border: none; background-color: #005792; height: 2px; margin: 20px 0;">
 Fullstack Web Developer
 -----------------------
+<hr style="border: none; background-color: #005792; height: 2px; margin: 20px 0;">
 
 <hr style="border: none; background-color: #005792; height: 2px; margin: 20px 0;">
 
