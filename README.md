@@ -1,12 +1,15 @@
 ![Fullstack Web Developer](https://github.com/mohamedaminehamdi/mohamedaminehamdi/blob/main/Black%20and%20Cream%20Simple%20Minimalist%20Assistant%20Manager%20LinkedIn%20Banner.png)
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-My name is Amine
-=============================================================================================================================
+## Hello, I'm Amine! 👋
 
-Fullstack Web Developer
------------------------
+## Fullstack Web Developer
+
+<div style="background-color: #0074D9; height: 2px; margin: 20px 0;"></div>
+I'm a web developer from Tunisia, passionate about creating dynamic and responsive websites. With a strong foundation in modern web technologies, I strive to build applications that are not only functional but also provide an exceptional user experience. My journey in web development started with a curiosity for how websites work, and over the last two years, it has evolved into a deep passion for coding and design.
+
+I enjoy working on projects that make a difference and have a tangible impact on users. Whether it's a personal portfolio, an e-commerce platform, or a social networking site, I believe in the power of technology to solve problems and enhance our lives.
 
 *   ✉️  You can contact me at [aminehamdifcb@gmail.com](mailto:aminehamdifcb@gmail.com)
 *   🧠  I'm learning Machine Learning
@@ -77,11 +80,11 @@ Fullstack Web Developer
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedaminehamdi&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </a>
 
-## Hello, I'm Amine! 👋
 
-![Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+my+GitHub+Profile!)
 
-I'm a web developer from Tunisia, passionate about creating dynamic and responsive websites. I enjoy working on projects that make a difference and continually seek to learn and grow in the field of web development.
+
+
+
 
 ### 🚀 Skills
 <p align="center">
