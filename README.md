@@ -118,6 +118,6 @@ I enjoy working on projects that make a difference and have a tangible impact on
 </p>
 <hr style="border: none; background-color: #005792; height: 2px; margin: 20px 0;">
 
-![Footer](https://via.placeholder.com/800x100.png?text=Let's+build+something+amazing+together!)
+![Footer]([https://via.placeholder.com/800x100.png?text=Let's+build+something+amazing+together!](https://github.com/mohamedaminehamdi/mohamedaminehamdi/blob/main/Black%20and%20White%20Simple%20Motivational%20Quote%20LinkedIn%20Banner.png))
 
 
