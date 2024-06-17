@@ -26,7 +26,9 @@ I enjoy working on projects that make a difference and have a tangible impact on
 <h3 align="center">🌟 What I'm Up To</h3>
 <br/>
 - 🔭 I’m currently working on a **web portfolio**.
+
 <br/>
+
 <p align="center">
   <img src="https://github.com/mohamedaminehamdi/mohamedaminehamdi/blob/main/portfolio.png" width="600" height="400" />
 </p>
