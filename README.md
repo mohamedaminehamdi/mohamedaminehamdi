@@ -97,7 +97,7 @@ I enjoy working on projects that make a difference and have a tangible impact on
                     </picture>
                     </a>
 </p>
-<!-
+<!--
 <hr style="border: none; background-color: #005792; height: 2px; margin: 20px 0;">
 
 <h3 align="center">Badges</h3>
