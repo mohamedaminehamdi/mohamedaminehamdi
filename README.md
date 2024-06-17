@@ -97,7 +97,7 @@ I enjoy working on projects that make a difference and have a tangible impact on
                     </picture>
                     </a>
 </p>
-
+<!-
 <hr style="border: none; background-color: #005792; height: 2px; margin: 20px 0;">
 
 <h3 align="center">Badges</h3>
@@ -115,7 +115,7 @@ I enjoy working on projects that make a difference and have a tangible impact on
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedaminehamdi&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </a>
 
-</p>
+</p> -->
 <hr style="border: none; background-color: #005792; height: 2px; margin: 20px 0;">
 
 ![Footer](https://github.com/mohamedaminehamdi/mohamedaminehamdi/blob/main/Black%20and%20White%20Simple%20Motivational%20Quote%20LinkedIn%20Banner.png)
