@@ -84,7 +84,8 @@ I enjoy working on projects that make a difference and have a tangible impact on
 <h3 align="center">Badges</h3>
 <p align="center">
 <b>My GitHub Stats</b>
-
+  </p>
+<p align="center">
 <a href="http://www.github.com/mohamedaminehamdi"><img src="https://github-readme-stats.vercel.app/api?username=mohamedaminehamdi&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="mohamedaminehamdi's GitHub stats" />
 </a>
 
