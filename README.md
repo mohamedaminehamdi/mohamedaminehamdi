@@ -27,21 +27,18 @@ I enjoy working on projects that make a difference and have a tangible impact on
 
 - 🔭 I’m currently working on a **web portfolio**.
 <p align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="300" height="300" />
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="400" height="400" />
 </p>
-  ![Portfolio GIF](https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif)
   
 - 🌱 I’m currently learning **Machine Learning**.
 <p align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300" height="300" />
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400" height="400" />
 </p>
-  ![Machine Learning GIF](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
-  
+
 - 👯 I’m looking to collaborate on **web projects**.
 <p align="center">
-  <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="300" height="300" />
+  <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="400" height="400" />
 </p>
-  ![Collaboration GIF](https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif)
 
 <hr style="border: none; background-color: #005792; height: 2px; margin: 20px 0;">
 
