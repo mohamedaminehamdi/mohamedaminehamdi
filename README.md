@@ -24,16 +24,20 @@ I enjoy working on projects that make a difference and have a tangible impact on
 
 <hr style="border: none; background-color: #005792; height: 2px; margin: 20px 0;">
 <h3 align="center">🌟 What I'm Up To</h3>
-
+<br/>
 - 🔭 I’m currently working on a **web portfolio**.
 <p align="center">
   <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="600" height="400" />
 </p>
-  
+
+<br/>
+
 - 🌱 I’m currently learning **Machine Learning**.
 <p align="center">
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="600" height="400" />
 </p>
+
+<br/>
 
 - 👯 I’m looking to collaborate on **web projects**.
 <p align="center">
