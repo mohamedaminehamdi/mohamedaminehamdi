@@ -120,30 +120,4 @@ I enjoy working on projects that make a difference and have a tangible impact on
 
 ![Footer](https://via.placeholder.com/800x100.png?text=Let's+build+something+amazing+together!)
 
-<footer style="background-color: #000; color: #fff; text-align: center; padding: 20px;">
-  <div>
-    <!-- Social Media Icons -->
-    <!-- Replace # with your social media URLs -->
-    <a href="#" target="_blank">LinkedIn</a> | 
-    <a href="#" target="_blank">GitHub</a> | 
-    <a href="#" target="_blank">Twitter</a>
-  </div>
-  <div>
-    <!-- Contact Information -->
-    <p>Email: your.email@example.com</p>
-    <p>Phone: (123) 456-7890</p>
-  </div>
-  <div>
-    <!-- Navigation Links -->
-    <a href="#about">About Me</a> | 
-    <a href="#projects">Projects</a> | 
-    <a href="#skills">Skills</a>
-  </div>
-  <div>
-    <!-- Copyright Notice -->
-    <p>&copy; 2024 Mohamed Amin Hamdi</p>
-  </div>
-  <div>
-    <!-- Short Bio -->
-    <p>A passionate developer creating innovative solutions.</p>
-  </div>
+
