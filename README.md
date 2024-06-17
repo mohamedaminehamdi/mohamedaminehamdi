@@ -26,15 +26,21 @@ I enjoy working on projects that make a difference and have a tangible impact on
 <h3 align="center">🌟 What I'm Up To</h3>
 
 - 🔭 I’m currently working on a **web portfolio**.
-
+<p align="center">
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="300" height="300" />
+</p>
   ![Portfolio GIF](https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif)
   
 - 🌱 I’m currently learning **Machine Learning**.
-
+<p align="center">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300" height="300" />
+</p>
   ![Machine Learning GIF](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
   
 - 👯 I’m looking to collaborate on **web projects**.
-
+<p align="center">
+  <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="300" height="300" />
+</p>
   ![Collaboration GIF](https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif)
 
 <hr style="border: none; background-color: #005792; height: 2px; margin: 20px 0;">
@@ -110,27 +116,6 @@ I enjoy working on projects that make a difference and have a tangible impact on
 
 </p>
 <hr style="border: none; background-color: #005792; height: 2px; margin: 20px 0;">
-
-
-
-
-### 🚀 Skills
-<p align="center">
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-</p>
-
-
-
-### 📫 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-amine-hamdi"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:aminehamdifcb@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/mohamedaminehamdi"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
 
 ![Footer](https://via.placeholder.com/800x100.png?text=Let's+build+something+amazing+together!)
 
