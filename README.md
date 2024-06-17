@@ -26,6 +26,7 @@ I enjoy working on projects that make a difference and have a tangible impact on
 
 <img src="https://img.shields.io/github/followers/mohamedaminehamdi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
+
 ### Skills 
 
 <p align="left">
