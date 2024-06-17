@@ -4,6 +4,8 @@
 <h3 align="center">Hi 👋, I'm Mohamed Amine</h3>
 <h3 align="center">Fullstack Web Developer</h3>
 
+<!-- <img src="https://img.shields.io/github/followers/mohamedaminehamdi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> -->
+
 <hr style="border: none; background-color: #005792; height: 2px; margin: 20px 0;">
 
 I'm a web developer from Tunisia, passionate about creating dynamic and responsive websites. With a strong foundation in modern web technologies, I strive to build applications that are not only functional but also provide an exceptional user experience. My journey in web development started with a curiosity for how websites work, and over the last two years, it has evolved into a deep passion for coding and design.
@@ -18,14 +20,24 @@ I enjoy working on projects that make a difference and have a tangible impact on
   
 *   ✉️  You can contact me at [aminehamdifcb@gmail.com](mailto:aminehamdifcb@gmail.com)
   
-*   🧠  I'm learning AI
-  
 *   🤝  I'm open to collaborating on web projects
 
 <hr style="border: none; background-color: #005792; height: 2px; margin: 20px 0;">
+<h3 align="center">🌟 What I'm Up To</h3>
 
-<!-- <img src="https://img.shields.io/github/followers/mohamedaminehamdi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> -->
+- 🔭 I’m currently working on a **web portfolio**.
 
+  ![Portfolio GIF](https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif)
+  
+- 🌱 I’m currently learning **Machine Learning**.
+
+  ![Machine Learning GIF](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
+  
+- 👯 I’m looking to collaborate on **web projects**.
+
+  ![Collaboration GIF](https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif)
+
+<hr style="border: none; background-color: #005792; height: 2px; margin: 20px 0;">
 
 <h3 align="center">Skills</h3>
 <br/>
@@ -111,13 +123,7 @@ I enjoy working on projects that make a difference and have a tangible impact on
   <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
-### 🌟 What I'm Up To
-- 🔭 I’m currently working on a **web portfolio**.
-  ![Portfolio GIF](https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif)
-- 🌱 I’m currently learning **Machine Learning**.
-  ![Machine Learning GIF](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
-- 👯 I’m looking to collaborate on **web projects**.
-  ![Collaboration GIF](https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif)
+
 
 ### 📫 Connect with Me
 <p align="center">
