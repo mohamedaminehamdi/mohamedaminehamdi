@@ -15,7 +15,7 @@ I enjoy working on projects that make a difference and have a tangible impact on
 <hr style="border: none; background-color: #005792; height: 2px; margin: 20px 0;">
 
 <p align="center">
-  <img src="https://github.com/mohamedaminehamdi/mohamedaminehamdi/blob/main/image_processing20210912-10430-132g4ab.gif" alt="Your GIF" />
+  <img src="https://github.com/mohamedaminehamdi/mohamedaminehamdi/blob/main/call%20me.png" alt="Your GIF" />
 </p>
   
 *   ✉️  You can contact me at [aminehamdifcb@gmail.com](mailto:aminehamdifcb@gmail.com)
@@ -27,21 +27,21 @@ I enjoy working on projects that make a difference and have a tangible impact on
 <br/>
 - 🔭 I’m currently working on a **web portfolio**.
 <p align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="600" height="400" />
+  <img src="https://github.com/mohamedaminehamdi/mohamedaminehamdi/blob/main/portfolio.png" width="600" height="400" />
 </p>
 
 <br/>
 
 - 🌱 I’m currently learning **Machine Learning**.
 <p align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="600" height="400" />
+  <img src="https://github.com/mohamedaminehamdi/mohamedaminehamdi/blob/main/ai.png" width="600" height="400" />
 </p>
 
 <br/>
 
 - 👯 I’m looking to collaborate on **web projects**.
 <p align="center">
-  <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="600" height="400" />
+  <img src="https://github.com/mohamedaminehamdi/mohamedaminehamdi/blob/main/coding.png" width="600" height="400" />
 </p>
 
 <hr style="border: none; background-color: #005792; height: 2px; margin: 20px 0;">
