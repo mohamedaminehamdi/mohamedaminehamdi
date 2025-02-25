@@ -6,7 +6,9 @@
 
 <!-- <img src="https://img.shields.io/github/followers/mohamedaminehamdi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> -->
 <div align="center">
+  
 # 💫 About Me:
+
 I'm a web developer from Tunisia, passionate about creating dynamic and responsive websites. With a strong foundation in modern web technologies, I strive to build applications that are not only functional but also provide an exceptional user experience. My journey in web development started with a curiosity for how websites work, and over the last two years, it has evolved into a deep passion for coding and design.<br><br>I enjoy working on projects that make a difference and have a tangible impact on users. Whether it's a personal portfolio, an e-commerce platform, or a social networking site, I believe in the power of technology to solve problems and enhance our lives.<br><br>
 
 
