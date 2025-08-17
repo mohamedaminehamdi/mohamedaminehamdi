@@ -13,7 +13,7 @@ I'm a web developer from Tunisia, passionate about creating dynamic and responsi
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-amine-hamdi) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@aminehamdifcb)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-amine-hamdi) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mohamedaminehamdi)
 
 # 💻 Tech Stack:
 [![Docker](https://img.shields.io/badge/DevOps-Docker-0db7ed?logo=docker&logoColor=white)]()
