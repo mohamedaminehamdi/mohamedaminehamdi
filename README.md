@@ -1,8 +1,8 @@
-![Fullstack Web Developer](https://github.com/mohamedaminehamdi/mohamedaminehamdi/blob/main/Black%20and%20Cream%20Simple%20Minimalist%20Assistant%20Manager%20LinkedIn%20Banner.png)
+![DevSecOps Engineer](https://github.com/mohamedaminehamdi/mohamedaminehamdi/blob/main/Black%20and%20Cream%20Simple%20Minimalist%20Assistant%20Manager%20LinkedIn%20Banner.png)
 
 
 <h3 align="center">Hi 👋, I'm Mohamed Amine</h3>
-<h3 align="center">Fullstack Web Developer</h3>
+<h3 align="center">DevSecOps Engineer</h3>
 
 <!-- <img src="https://img.shields.io/github/followers/mohamedaminehamdi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> -->
 <div align="center">
@@ -26,21 +26,17 @@ I'm a web developer from Tunisia, passionate about creating dynamic and responsi
 [![Ansible](https://img.shields.io/badge/Automation-Ansible-1A1918?logo=ansible&logoColor=white)]()
 [![Terraform](https://img.shields.io/badge/IaC-Terraform-623CE4?logo=terraform&logoColor=white)](https://www.terraform.io)
 
-[![C](https://img.shields.io/badge/Language-C-00599C?logo=c&logoColor=white)]()
+
 [![C++](https://img.shields.io/badge/Language-C++-00599C?logo=c%2B%2B&logoColor=white)]()
 [![Python](https://img.shields.io/badge/Language-Python-3670A0?logo=python&logoColor=ffdd54)]()
 [![JavaScript](https://img.shields.io/badge/Language-JavaScript-F7DF1E?logo=javascript&logoColor=black)]()
 [![TypeScript](https://img.shields.io/badge/Language-TypeScript-007ACC?logo=typescript&logoColor=white)]()
-[![Java](https://img.shields.io/badge/Language-Java-ED8B00?logo=openjdk&logoColor=white)]()
 [![Go](https://img.shields.io/badge/Language-Go-00ADD8?logo=go&logoColor=white)]()
-[![PHP](https://img.shields.io/badge/Language-PHP-777BB4?logo=php&logoColor=white)]()
-[![LaTeX](https://img.shields.io/badge/Language-LaTeX-008080?logo=latex&logoColor=white)]()
+
 
 [![HTML5](https://img.shields.io/badge/Frontend-HTML5-E34F26?logo=html5&logoColor=white)]()
 [![CSS3](https://img.shields.io/badge/Frontend-CSS3-1572B6?logo=css3&logoColor=white)]()
-[![SASS](https://img.shields.io/badge/Frontend-SASS-CC6699?logo=sass&logoColor=white)]()
 [![TailwindCSS](https://img.shields.io/badge/Frontend-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)]()
-[![Bootstrap](https://img.shields.io/badge/Frontend-Bootstrap-8511FA?logo=bootstrap&logoColor=white)]()
 [![Three.js](https://img.shields.io/badge/Frontend-Three.js-000000?logo=three.js&logoColor=white)]()
 
 [![Flask](https://img.shields.io/badge/Backend-Flask-000000?logo=flask&logoColor=white)]()
@@ -51,9 +47,7 @@ I'm a web developer from Tunisia, passionate about creating dynamic and responsi
 [![tRPC](https://img.shields.io/badge/API-tRPC-2596BE?logo=tRPC&logoColor=white)]()
 
 [![React](https://img.shields.io/badge/Library-React-20232A?logo=react&logoColor=61DAFB)]()
-[![React Query](https://img.shields.io/badge/Library-React_Query-FF4154?logo=react-query&logoColor=white)]()
-[![React Hook Form](https://img.shields.io/badge/Library-React_Hook_Form-EC5990?logo=reacthookform&logoColor=white)]()
-[![Chart.js](https://img.shields.io/badge/Library-Chart.js-F5788D?logo=chart.js&logoColor=white)]()
+
 
 [![Git](https://img.shields.io/badge/VCS-Git-F05033?logo=git&logoColor=white)]()
 [![GitHub](https://img.shields.io/badge/Platform-GitHub-121011?logo=github&logoColor=white)]()
@@ -66,11 +60,6 @@ I'm a web developer from Tunisia, passionate about creating dynamic and responsi
 [![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-316192?logo=postgresql&logoColor=white)]()
 [![Prisma](https://img.shields.io/badge/ORM-Prisma-3982CE?logo=prisma&logoColor=white)]()
 [![Supabase](https://img.shields.io/badge/Platform-Supabase-3ECF8E?logo=supabase&logoColor=white)]()
-
-[![NumPy](https://img.shields.io/badge/Data-NumPy-013243?logo=numpy&logoColor=white)]()
-[![Pandas](https://img.shields.io/badge/Data-Pandas-150458?logo=pandas&logoColor=white)]()
-[![Matplotlib](https://img.shields.io/badge/Data-Matplotlib-ffffff?logo=matplotlib&logoColor=black)]()
-[![scikit-learn](https://img.shields.io/badge/ML-scikit--learn-F7931E?logo=scikit-learn&logoColor=white)]()
 
 [![Notion](https://img.shields.io/badge/Tool-Notion-000000?logo=notion&logoColor=white)]()
 [![Jira](https://img.shields.io/badge/Tool-Jira-0A0FFF?logo=jira&logoColor=white)]()
