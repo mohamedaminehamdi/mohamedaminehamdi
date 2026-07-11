@@ -6,6 +6,7 @@
 
 <!-- <img src="https://img.shields.io/github/followers/mohamedaminehamdi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> -->
 <div align="center">
+[![My GitFut card](https://gitfut.com/mohamedaminehamdi.png)](https://gitfut.com/mohamedaminehamdi)
   
 # 💫 About Me:
 
