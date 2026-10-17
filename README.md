@@ -1,148 +1,113 @@
-![DevSecOps Engineer](https://github.com/mohamedaminehamdi/mohamedaminehamdi/blob/main/Black%20and%20Cream%20Simple%20Minimalist%20Assistant%20Manager%20LinkedIn%20Banner.png)
-
-
-<h3 align="center">Hi 👋, I'm Mohamed Amine</h3>
-<h3 align="center">DevSecOps Engineer</h3>
-
-<!-- <img src="https://img.shields.io/github/followers/mohamedaminehamdi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> -->
-<div align="center">
-  
-# 💫 About Me:
-
-I'm a web developer from Tunisia, passionate about creating dynamic and responsive websites. With a strong foundation in modern web technologies, I strive to build applications that are not only functional but also provide an exceptional user experience. My journey in web development started with a curiosity for how websites work, and over the last two years, it has evolved into a deep passion for coding and design.<br><br>I enjoy working on projects that make a difference and have a tangible impact on users. Whether it's a personal portfolio, an e-commerce platform, or a social networking site, I believe in the power of technology to solve problems and enhance our lives.<br><br>
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-amine-hamdi) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mohamedaminehamdi)
-
-# 💻 Tech Stack:
-[![Docker](https://img.shields.io/badge/DevOps-Docker-0db7ed?logo=docker&logoColor=white)]()
-[![Kubernetes](https://img.shields.io/badge/DevOps-Kubernetes-326ce5?logo=kubernetes&logoColor=white)]()
-[![GitHub Actions](https://img.shields.io/badge/CI/GitHub_Actions-2671E5?logo=githubactions&logoColor=white)]()
-[![AWS](https://img.shields.io/badge/Cloud-AWS-FF9900?logo=amazon-aws&logoColor=white)]()
-[![OVH](https://img.shields.io/badge/Cloud-OVH-123F6D?logo=ovh&logoColor=white)]()
-[![Vercel](https://img.shields.io/badge/Cloud-Vercel-000000?logo=vercel&logoColor=white)]()
-[![Jenkins](https://img.shields.io/badge/CI/Jenkins-2C5263?logo=jenkins&logoColor=white)]()
-[![Ansible](https://img.shields.io/badge/Automation-Ansible-1A1918?logo=ansible&logoColor=white)]()
-[![Terraform](https://img.shields.io/badge/IaC-Terraform-623CE4?logo=terraform&logoColor=white)](https://www.terraform.io)
-
-
-[![C++](https://img.shields.io/badge/Language-C++-00599C?logo=c%2B%2B&logoColor=white)]()
-[![Python](https://img.shields.io/badge/Language-Python-3670A0?logo=python&logoColor=ffdd54)]()
-[![JavaScript](https://img.shields.io/badge/Language-JavaScript-F7DF1E?logo=javascript&logoColor=black)]()
-[![TypeScript](https://img.shields.io/badge/Language-TypeScript-007ACC?logo=typescript&logoColor=white)]()
-[![Go](https://img.shields.io/badge/Language-Go-00ADD8?logo=go&logoColor=white)]()
-
-
-[![HTML5](https://img.shields.io/badge/Frontend-HTML5-E34F26?logo=html5&logoColor=white)]()
-[![CSS3](https://img.shields.io/badge/Frontend-CSS3-1572B6?logo=css3&logoColor=white)]()
-[![TailwindCSS](https://img.shields.io/badge/Frontend-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)]()
-[![Three.js](https://img.shields.io/badge/Frontend-Three.js-000000?logo=three.js&logoColor=white)]()
-
-[![Flask](https://img.shields.io/badge/Backend-Flask-000000?logo=flask&logoColor=white)]()
-[![Express.js](https://img.shields.io/badge/Backend-Express.js-404D59?logo=express&logoColor=61DAFB)]()
-[![NestJS](https://img.shields.io/badge/Backend-NestJS-E0234E?logo=nestjs&logoColor=white)]()
-[![Next.js](https://img.shields.io/badge/Fullstack-Next.js-000000?logo=next.js&logoColor=white)]()
-[![Node.js](https://img.shields.io/badge/Runtime-Node.js-6DA55F?logo=node.js&logoColor=white)]()
-[![tRPC](https://img.shields.io/badge/API-tRPC-2596BE?logo=tRPC&logoColor=white)]()
-
-[![React](https://img.shields.io/badge/Library-React-20232A?logo=react&logoColor=61DAFB)]()
-
-
-[![Git](https://img.shields.io/badge/VCS-Git-F05033?logo=git&logoColor=white)]()
-[![GitHub](https://img.shields.io/badge/Platform-GitHub-121011?logo=github&logoColor=white)]()
-[![NPM](https://img.shields.io/badge/Tool-NPM-CB3837?logo=npm&logoColor=white)]()
-[![ESLint](https://img.shields.io/badge/Tool-ESLint-4B3263?logo=eslint&logoColor=white)]()
-[![Vite](https://img.shields.io/badge/Tool-Vite-646CFF?logo=vite&logoColor=white)]()
-
-[![MongoDB](https://img.shields.io/badge/Database-MongoDB-4ea94b?logo=mongodb&logoColor=white)]()
-[![MySQL](https://img.shields.io/badge/Database-MySQL-4479A1?logo=mysql&logoColor=white)]()
-[![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-316192?logo=postgresql&logoColor=white)]()
-[![Prisma](https://img.shields.io/badge/ORM-Prisma-3982CE?logo=prisma&logoColor=white)]()
-[![Supabase](https://img.shields.io/badge/Platform-Supabase-3ECF8E?logo=supabase&logoColor=white)]()
-
-[![Notion](https://img.shields.io/badge/Tool-Notion-000000?logo=notion&logoColor=white)]()
-[![Jira](https://img.shields.io/badge/Tool-Jira-0A0FFF?logo=jira&logoColor=white)]()
-[![Trello](https://img.shields.io/badge/Tool-Trello-026AA7?logo=trello&logoColor=white)]()
-
-[![Postman](https://img.shields.io/badge/API-Postman-FF6C37?logo=postman&logoColor=white)]()
-[![JWT](https://img.shields.io/badge/Auth-JWT-000000?logo=json-web-tokens&logoColor=white)]()
-[![Prometheus](https://img.shields.io/badge/Monitoring-Prometheus-E6522C?logo=prometheus&logoColor=white)]()
-[![Grafana](https://img.shields.io/badge/Monitoring-Grafana-F46800?logo=grafana&logoColor=white)]()
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mohamedaminehamdi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mohamedaminehamdi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedaminehamdi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mohamedaminehamdi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=mohamedaminehamdi&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<p align="center">
-                      <a href="https://www.facebook.com/profile.php?id=100089733371903" target="_blank" rel="noreferrer">
-                    <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" />
-                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" />
-                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" />
-                    </picture>
-                    </a>
-                      <a href="https://www.github.com/mohamedaminehamdi" target="_blank" rel="noreferrer">
-                    <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-                    </picture>
-                    </a>
-                      <a href="http://www.instagram.com/hamdi__mohamed__amine/" target="_blank" rel="noreferrer">
-                    <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" />
-                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />
-                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
-                    </picture>
-                    </a>
-                      <a href="https://www.linkedin.com/in/mohamed-amine-hamdi/" target="_blank" rel="noreferrer">
-                    <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-                    </picture>
-                    </a>
-                      <a href="https://www.x.com/aminehamdibarca" target="_blank" rel="noreferrer">
-                    <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
-                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
-                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
-                    </picture>
-                    </a>
-</p></div>
-<!--
-<hr style="border: none; background-color: #005792; height: 2px; margin: 20px 0;">
-
-<h3 align="center">Badges</h3>
-<p align="center">
-<b>My GitHub Stats</b>
-  </p>
-  <br/>
-<p align="center">
-<a href="http://www.github.com/mohamedaminehamdi"><img src="https://github-readme-stats.vercel.app/api?username=mohamedaminehamdi&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="mohamedaminehamdi's GitHub stats" />
-</a>
-  </p>
-<br/>
-<p align="center">
-<a href="http://www.github.com/mohamedaminehamdi">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedaminehamdi&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+<a href="https://github.com/mohamedaminehamdi">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohamedaminehamdi/mohamedaminehamdi/main/dark_mode.svg">
+    <img alt="Mohamed Amine Hamdi, DevSecOps Engineer. Linux, Kubernetes, AWS." src="https://raw.githubusercontent.com/mohamedaminehamdi/mohamedaminehamdi/main/light_mode.svg">
+  </picture>
 </a>
 
-</p> -->
-<hr style="border: none; background-color: #005792; height: 2px; margin: 20px 0;">
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohamed-amine-hamdi/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/linkedin-dark.svg"><img src="assets/buttons/linkedin-light.svg" width="23.5%" alt="LinkedIn mohamed-amine-hamdi"></picture></a>
+  <a href="https://medium.com/@mohamedaminehamdi"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/medium-dark.svg"><img src="assets/buttons/medium-light.svg" width="23.5%" alt="Medium @mohamedaminehamdi"></picture></a>
+  <a href="https://dev.to/mohamedaminehamdi"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/dev-dark.svg"><img src="assets/buttons/dev-light.svg" width="23.5%" alt="DEV @mohamedaminehamdi"></picture></a>
+  <a href="https://x.com/aminehamdibarca"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/x-dark.svg"><img src="assets/buttons/x-light.svg" width="23.5%" alt="X @aminehamdibarca"></picture></a>
+</p>
 
-![Footer](https://github.com/mohamedaminehamdi/mohamedaminehamdi/blob/main/Black%20and%20White%20Simple%20Motivational%20Quote%20LinkedIn%20Banner.png)
+I keep fleets of embedded devices reachable, patched and trusted, and I automate the platform around them. By day that means secure remote access, WireGuard mesh networking and Kubernetes at [EcoG](https://www.ecog.io) in Munich. On the side I build local-first AI tools and write about what I learn along the way.
 
+## Featured work
 
+<p>
+  <a href="https://github.com/mohamedaminehamdi/job-hunter"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/job-hunter-dark.svg"><img src="assets/projects/job-hunter-light.svg" width="49%" alt="job-hunter: AI job application skills for Claude Code, Codex and Cursor"></picture></a>
+  <a href="https://github.com/mohamedaminehamdi/infra-genie"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/infra-genie-dark.svg"><img src="assets/projects/infra-genie-light.svg" width="49%" alt="infra-genie: AWS unused-resource scanner and cleaner"></picture></a>
+</p>
+
+<p>
+  <a href="https://github.com/mohamedaminehamdi/three-tier-devsecops-project"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/three-tier-devsecops-project-dark.svg"><img src="assets/projects/three-tier-devsecops-project-light.svg" width="49%" alt="three-tier-devsecops: EKS, Terraform, Jenkins, Trivy, SonarQube, Argo CD"></picture></a>
+  <a href="https://github.com/mohamedaminehamdi/the-localhost-times"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/the-localhost-times-dark.svg"><img src="assets/projects/the-localhost-times-light.svg" width="49%" alt="the-localhost-times: a private local-first AI morning newspaper"></picture></a>
+</p>
+
+<p>
+  <a href="https://github.com/mohamedaminehamdi/divergence"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/divergence-dark.svg"><img src="assets/projects/divergence-light.svg" width="49%" alt="divergence: scores a site for Google and for AI answer engines"></picture></a>
+  <a href="https://github.com/mohamedaminehamdi/leaf-and-gill"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/leaf-and-gill-dark.svg"><img src="assets/projects/leaf-and-gill-light.svg" width="49%" alt="leaf-and-gill: offline plant and mushroom identification"></picture></a>
+</p>
+
+## Latest on Medium
+
+<!-- MEDIUM:START -->
+<sub><a href="https://medium.com/@mohamedaminehamdi">Read my articles on Medium</a></sub>
+<!-- MEDIUM:END -->
+
+## Experience
+
+- **DevSecOps Engineer, EcoG** (now): secure remote access, WireGuard mesh networking and fleet management for embedded devices
+- **DevSecOps Engineer, Decentral AI**
+- **CTO, Colocqui**
+- **President, INSAT Junior Enterprise**
+
+<sub>ICT Engineering, INSAT. Cisco CCNA. Speaker at AWS Community Day DACH.</sub>
+
+<details>
+<summary><b>A pattern I build: secure access to devices in the field</b></summary>
+<br>
+
+Every device stays reachable without ever being exposed to the internet. Engineers authenticate once, policies decide which device they can reach, and a hardened fallback path exists for when the mesh is down.
+
+```mermaid
+flowchart LR
+  eng([Engineer]) -->|SSO and MFA| idp[Identity provider]
+  idp --> cp[Mesh control plane]
+  cp -.->|access policies| fleet
+  eng ==>|WireGuard mesh| fleet
+  eng -->|fallback| bridge[Hardened SSH bridge]
+  bridge -->|per-device tunnel| fleet
+  subgraph fleet[Field device fleet]
+    d1[Device]
+    d2[Device]
+    d3[Device]
+  end
+  fleet -->|Telegraf| prom[Prometheus] --> graf[Grafana]
+  git[(Git: Terraform and Ansible)] -->|CI/CD| cp
+  git -->|CI/CD| bridge
+```
+
+</details>
+
+## Stack
+
+<p align="center">
+  <a href="https://mohamedaminehamdi.github.io/mohamedaminehamdi/"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/stack-sphere-dark.svg">
+    <img src="assets/stack-sphere-light.svg" width="100%" alt="Rotating 3D sphere of my stack: Kubernetes, Helm, Argo CD, Docker, Harbor, Istio, Cilium, Traefik, Nginx, Terraform, Ansible, Packer, Vault, AWS, Cloudflare, Linux, Bash, GitHub Actions, GitLab CI, Jenkins, Git, GitHub, Trivy, SonarQube, Snyk, OWASP, Falco, Keycloak, WireGuard, Prometheus, Grafana, OpenTelemetry, InfluxDB, Go, Python, TypeScript, JavaScript, Node.js, NestJS, Next.js, React, PostgreSQL, MongoDB, Tailwind CSS, Prisma, Supabase, Vercel">
+  </picture></a>
+  <br><sub>Click the sphere for the interactive version: hover a logo to enlarge it, drag to spin.</sub>
+</p>
+
+## GitHub activity
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow-animate.svg"><img src="profile-3d-contrib/profile-green-animate.svg" alt="3D contribution graph with contribution radar and languages" width="100%"></picture>
+
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mohamedaminehamdi&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=161b22&title_color=ffa657&text_color=c9d1d9&icon_color=3fb950&border_color=30363d&ring_color=ffa657"><img src="https://github-readme-stats.vercel.app/api?username=mohamedaminehamdi&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=f6f8fa&title_color=953800&text_color=24292f&icon_color=1a7f37&border_color=d0d7de&ring_color=953800" alt="GitHub stats" height="180"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedaminehamdi&layout=compact&langs_count=8&bg_color=161b22&title_color=ffa657&text_color=c9d1d9&border_color=30363d"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedaminehamdi&layout=compact&langs_count=8&bg_color=f6f8fa&title_color=953800&text_color=24292f&border_color=d0d7de" alt="Top languages" height="180"></picture>
+</p>
+
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=mohamedaminehamdi&background=161b22&border=30363d&stroke=30363d&ring=ffa657&fire=ffa657&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=ffa657&sideLabels=c9d1d9&dates=8b949e"><img src="https://streak-stats.demolab.com/?user=mohamedaminehamdi&background=f6f8fa&border=d0d7de&stroke=d0d7de&ring=953800&fire=953800&currStreakNum=24292f&sideNums=24292f&currStreakLabel=953800&sideLabels=24292f&dates=8b949e" alt="Contribution streak"></picture>
+</p>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=mohamedaminehamdi&bg_color=161b22&color=c9d1d9&title_color=ffa657&line=3fb950&point=ffa657&area=true&area_color=3fb950&hide_border=false&border_color=30363d&radius=6&custom_title=Contributions%20in%20the%20last%2031%20days"><img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedaminehamdi&bg_color=f6f8fa&color=24292f&title_color=953800&line=1a7f37&point=953800&area=true&area_color=1a7f37&hide_border=false&border_color=d0d7de&radius=6&custom_title=Contributions%20in%20the%20last%2031%20days" alt="Contribution activity graph" width="100%"></picture>
+
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=mohamedaminehamdi&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7"><img src="https://github-profile-trophy.vercel.app/?username=mohamedaminehamdi&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub trophies"></picture>
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohamedaminehamdi/mohamedaminehamdi/output/github-snake-dark.svg">
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/mohamedaminehamdi/mohamedaminehamdi/output/github-snake.svg">
+</picture>
+
+<details>
+<summary><b>Isometric calendar and languages by code size</b> (lowlighter/metrics)</summary>
+<br>
+<img src="metrics.svg" alt="Most used languages and an isometric view of my contribution calendar, with streaks" width="100%">
+</details>
