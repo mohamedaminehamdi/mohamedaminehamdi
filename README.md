@@ -105,9 +105,3 @@ flowchart LR
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohamedaminehamdi/mohamedaminehamdi/output/github-snake-dark.svg">
   <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/mohamedaminehamdi/mohamedaminehamdi/output/github-snake.svg">
 </picture>
-
-<details>
-<summary><b>Isometric calendar and languages by code size</b> (lowlighter/metrics)</summary>
-<br>
-<img src="metrics.svg" alt="Most used languages and an isometric view of my contribution calendar, with streaks" width="100%">
-</details>
