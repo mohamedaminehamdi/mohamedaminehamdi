@@ -136,12 +136,12 @@ SCENES = [
     [   # what I ship
         ('argocd app list', [
             [('NAME                       SYNC STATUS   HEALTH STATUS', dim)],
-            [('job-hunter                 ', val), ('Synced        ', ok), ('Healthy', ok)],
-            [('infra-genie                ', val), ('Synced        ', ok), ('Healthy', ok)],
-            [('three-tier-devsecops       ', val), ('Synced        ', ok), ('Healthy', ok)],
-            [('the-localhost-times        ', val), ('Synced        ', ok), ('Healthy', ok)],
-            [('divergence                 ', val), ('Synced        ', ok), ('Healthy', ok)],
-            [('leaf-and-gill              ', val), ('Synced        ', ok), ('Healthy', ok)],
+            [('firecrawl/firecrawl        ', val), ('Synced        ', ok), ('Healthy', ok)],
+            [('kubernetes/kubernetes      ', val), ('Synced        ', ok), ('Healthy', ok)],
+            [('backstage/backstage        ', val), ('Synced        ', ok), ('Healthy', ok)],
+            [('netbirdio/netbird          ', val), ('Synced        ', ok), ('Healthy', ok)],
+            [('Tracer-Cloud/opensre       ', val), ('Synced        ', ok), ('Healthy', ok)],
+            [('kubernetes/website         ', val), ('Synced        ', ok), ('Healthy', ok)],
         ]),
         ('terraform plan', [
             [('  # engineer.mohamed will be created', dim)],
@@ -221,7 +221,7 @@ def build(theme, stats, ascii_lines):
         for w in (400, 800))
     out = [f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" '
            f'font-family="JBM,Consolas,monospace" font-size="{FS}px" role="img" '
-           f'aria-label="Terminal session. whoami: {WHOAMI}. neofetch: Linux, Kubernetes, AWS. Certifications: CCNA, Stanford Machine Learning. Projects: job-hunter, infra-genie, three-tier-devsecops, the-localhost-times, divergence, leaf-and-gill. Experience: EcoG, Decentral AI, CTO at Colocqui, President of INSAT Junior Enterprise. Talk: AWS Community Day DACH. {HIRE_ME[0]}">',
+           f'aria-label="Terminal session. whoami: {WHOAMI}. neofetch: Linux, Kubernetes, AWS. Certifications: CCNA, Stanford Machine Learning. Repos: firecrawl/firecrawl, kubernetes/kubernetes, backstage/backstage, netbirdio/netbird, Tracer-Cloud/opensre, kubernetes/website. Experience: EcoG, Decentral AI, CTO at Colocqui, President of INSAT Junior Enterprise. Talk: AWS Community Day DACH. {HIRE_ME[0]}">',
            f'<style>{fonts}text,tspan{{white-space:pre;font-variant-ligatures:none;font-feature-settings:\'liga\' 0,\'calt\' 0}}'
            f'.key{{fill:{c["key"]}}}.value{{fill:{c["value"]}}}.cc{{fill:{c["cc"]}}}.title{{font-weight:800;fill:{c["accent"]}}}</style>',
            f'<rect width="{W}" height="{H}" fill="{c["bg"]}" rx="15"/>']
