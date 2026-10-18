@@ -41,3 +41,9 @@
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mohamedaminehamdi&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=161b22&title_color=ffa657&text_color=c9d1d9&icon_color=3fb950&border_color=30363d&ring_color=ffa657"><img src="https://github-readme-stats.vercel.app/api?username=mohamedaminehamdi&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=f6f8fa&title_color=953800&text_color=24292f&icon_color=1a7f37&border_color=d0d7de&ring_color=953800" alt="GitHub stats" height="180"></picture>
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedaminehamdi&layout=compact&langs_count=8&bg_color=161b22&title_color=ffa657&text_color=c9d1d9&border_color=30363d"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedaminehamdi&layout=compact&langs_count=8&bg_color=f6f8fa&title_color=953800&text_color=24292f&border_color=d0d7de" alt="Top languages" height="180"></picture>
 </p>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg"><img src="assets/activity-light.svg" alt="Contributions in the last 31 days" width="100%"></picture>
+
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/trophies-dark.svg"><img src="assets/trophies-light.svg" alt="GitHub trophies"></picture>
+</p>
