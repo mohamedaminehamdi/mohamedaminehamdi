@@ -23,34 +23,6 @@
   </picture>
 </p>
 
-I keep fleets of embedded devices reachable, patched and trusted, and I automate the platform around them. By day that means secure remote access, WireGuard mesh networking and Kubernetes at [EcoG](https://www.ecog.io) in Munich. On the side I build local-first AI tools and write about what I learn along the way.
-
-<details>
-<summary><b>A pattern I build: secure access to devices in the field</b></summary>
-<br>
-
-Every device stays reachable without ever being exposed to the internet. Engineers authenticate once, policies decide which device they can reach, and a hardened fallback path exists for when the mesh is down.
-
-```mermaid
-flowchart LR
-  eng([Engineer]) -->|SSO and MFA| idp[Identity provider]
-  idp --> cp[Mesh control plane]
-  cp -.->|access policies| fleet
-  eng ==>|WireGuard mesh| fleet
-  eng -->|fallback| bridge[Hardened SSH bridge]
-  bridge -->|per-device tunnel| fleet
-  subgraph fleet[Field device fleet]
-    d1[Device]
-    d2[Device]
-    d3[Device]
-  end
-  fleet -->|Telegraf| prom[Prometheus] --> graf[Grafana]
-  git[(Git: Terraform and Ansible)] -->|CI/CD| cp
-  git -->|CI/CD| bridge
-```
-
-</details>
-
 ## Stack
 
 <p align="center">
