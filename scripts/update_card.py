@@ -32,7 +32,7 @@ CONTACT = [
     ('LinkedIn', 'mohamed-amine-hamdi'),
     ('Medium', '@mohamedaminehamdi'),
     ('DEV', '@mohamedaminehamdi'),
-    ('X', '@aminehamdibarca'),
+    ('X', '@baryouchahamdi'),
 ]
 # Used when no GITHUB_TOKEN is available (local runs). Actions overwrite these.
 FALLBACK = dict(repos=46, stars=17, followers=16, contributions=3176, contributed=0)
@@ -177,7 +177,7 @@ SCENES = [
             [('linkedin ', key), ('= ', txt), ('"mohamed-amine-hamdi"', val)],
             [('medium   ', key), ('= ', txt), ('"@mohamedaminehamdi"', val)],
             [('dev      ', key), ('= ', txt), ('"@mohamedaminehamdi"', val)],
-            [('x        ', key), ('= ', txt), ('"@aminehamdibarca"', val)],
+            [('x        ', key), ('= ', txt), ('"@baryouchahamdi"', val)],
         ]),
         ('./hire-me.sh', [
             [('Open to freelance and contract work.', txt)],

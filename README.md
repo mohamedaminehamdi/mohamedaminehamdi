@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/mohamed-amine-hamdi/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/linkedin-dark.svg"><img src="assets/buttons/linkedin-light.svg" width="23.5%" alt="LinkedIn mohamed-amine-hamdi"></picture></a>
   <a href="https://medium.com/@mohamedaminehamdi"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/medium-dark.svg"><img src="assets/buttons/medium-light.svg" width="23.5%" alt="Medium @mohamedaminehamdi"></picture></a>
   <a href="https://dev.to/mohamedaminehamdi"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/dev-dark.svg"><img src="assets/buttons/dev-light.svg" width="23.5%" alt="DEV @mohamedaminehamdi"></picture></a>
-  <a href="https://x.com/aminehamdibarca"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/x-dark.svg"><img src="assets/buttons/x-light.svg" width="23.5%" alt="X @aminehamdibarca"></picture></a>
+  <a href="https://x.com/baryouchahamdi"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/x-dark.svg"><img src="assets/buttons/x-light.svg" width="23.5%" alt="X @baryouchahamdi"></picture></a>
 </p>
 
 <p align="center">
